@@ -9,11 +9,11 @@ import { Container,Span, Div1, Div2, Div3, NavLink, SocialIcons } from './Header
 const Header = () =>  (
   <Container>
     <Div1>
-      <Link href="/">
-        <a style={{ display: 'flex', alignItems: 'center', color:"white", marginBottom: "20px"}}>
+      
+       <Link href=""  style={{ display: 'flex', alignItems: 'center', color:"white", marginBottom: "20px"}}>
           < DiSnapSvg size="2rem" /> <Span>Kingsley</Span>
-        </a>
-      </Link>
+        </Link>
+    
     </Div1>
     <Div2>
       <li>

@@ -39,21 +39,6 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <DiPython  size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Python</ListTitle>
-          <ListParagraph>
-            Experience  <br />
-            Data analytics and  visualization with <br />
-            Numpy<br />
-            Pandas <br />
-            Matplotlib etc.
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <picture>
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
@@ -64,6 +49,25 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
+
+
+      <ListItem>
+        <picture>
+          <DiPython  size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Python</ListTitle>
+          <ListParagraph>
+            Experience  <br />
+            Data analytics and  visualization with <br />
+            Numpy<br />
+            Pandas <br />
+            Matplotlib etc.<br />
+            Also experience with Spreadsheet and PowerBI
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      
     
     </List>
         
