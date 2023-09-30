@@ -25,18 +25,7 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <picture>
-          <DiFirebase size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Back-End</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            Node and Databases
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+      
       <ListItem>
         <picture>
           <DiZend size="3rem" />
@@ -49,7 +38,18 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-
+      <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Back-End</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            Node and Databases
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
 
       <ListItem>
         <picture>
